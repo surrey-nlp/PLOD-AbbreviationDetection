@@ -1,4 +1,4 @@
-<center><img src="./imgs/plod.png" alt="logo" width="50" height="84"/></center>
+<p align="center"><img src="./imgs/plod.png" alt="logo" width="50" height="84"/></p>
 
 # PLOD: An Abbreviation Detection Dataset  
 
