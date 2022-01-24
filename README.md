@@ -1,7 +1,8 @@
-<img src="./imgs/plod.png" alt="logo" width="40" height="72"/> 
+<center><img src="./imgs/plod.png" alt="logo" width="50" height="84"/></center>
 
 # PLOD: An Abbreviation Detection Dataset  
 
+This is the repository for PLOD Dataset submitted to LREC 2022. The dataset can help build sequence labelling models for the task Abbreviation Detection. 
 ### Dataset
 The dataset is present [here at this link](https://drive.google.com/drive/folders/1uI6V8-A1uoB05fUC2znrQLvHouMqUusK?usp=sharing).<br/>
 
