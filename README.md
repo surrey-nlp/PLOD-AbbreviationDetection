@@ -1,3 +1,5 @@
+![logo](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/blob/main/imgs/plod.png) 
+
 # PLOD: An Abbreviation Detection Dataset  
 
 ### Dataset
