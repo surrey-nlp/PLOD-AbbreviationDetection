@@ -1,4 +1,4 @@
-![logo](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/blob/main/imgs/plod.png) 
+<img src="https://github.com/surrey-nlp/PLOD-AbbreviationDetection/blob/main/imgs/plod.png" alt="logo" width="200" height="350"/>
 
 # PLOD: An Abbreviation Detection Dataset  
 
