@@ -12,7 +12,7 @@ This is the repository for PLOD Dataset submitted to LREC 2022. The dataset can 
 The dataset is present [here at this link](https://drive.google.com/drive/folders/1uI6V8-A1uoB05fUC2znrQLvHouMqUusK?usp=sharing).<br/>
 
 ### Installation
-We use the custom NER pipeline in the [spaCy transformers](https://spacy.io/universe/project/spacy-transformers) library to train our models. This library supports training via any pre-trained language models available at the [HuggingFace repository](https://huggingface.co/).<br/>
+We use the custom NER pipeline in the [spaCy transformers](https://spacy.io/universe/project/spacy-transformers) library to train our models. This library supports training via any pre-trained language models available at the :rocket: [HuggingFace repository](https://huggingface.co/).<br/>
 Please see the instructions at these websites to setup your own custom training with our dataset.
 
 ### Model
