@@ -1,6 +1,11 @@
 <p align="center"><img src="./imgs/plod.png" alt="logo" width="50" height="84"/></p>
 
 # PLOD: An Abbreviation Detection Dataset  
+[![GitHub issues](https://img.shields.io/github/issues/surrey-nlp/PLOD-AbbreviationDetection?style=for-the-badge)](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/issues)
+[![GitHub stars](https://img.shields.io/github/stars/surrey-nlp/PLOD-AbbreviationDetection?style=for-the-badge)](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/surrey-nlp/PLOD-AbbreviationDetection?style=for-the-badge)](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/network)
+[![GitHub license](https://img.shields.io/github/license/surrey-nlp/PLOD-AbbreviationDetection?style=for-the-badge)](https://github.com/surrey-nlp/PLOD-AbbreviationDetection)
+[![Twitter](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fsurrey-nlp%2FPLOD-AbbreviationDetection)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsurrey-nlp%2FPLOD-AbbreviationDetection)
 
 This is the repository for PLOD Dataset submitted to LREC 2022. The dataset can help build sequence labelling models for the task Abbreviation Detection. 
 ### Dataset
