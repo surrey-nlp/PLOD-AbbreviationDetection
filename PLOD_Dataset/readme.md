@@ -15,7 +15,7 @@ PLOD_dataset-filtered-validated.tsv contains 11 columns separated by tabs and 16
 - Column 11 = Long Forms (as they appear in the "Abbreviation" section of the XML from the corpus) -- this column is just for reference
 
 Validation (column 9 in PLOD_dataset-filtered-validated.tsv). This column contains either a 1, a 2, a concatenation of both, or it is empty.
-- If it conatins a 1, at least one of the long forms in this line begins or ends with a stop word.
-- If it conatins a 2, at least one of the long forms in this line has more than 12 tokens.
-- If it conatins any concatenation of 1 and 2 (either 12 or 21), then both the above are true.
+- If it contains a 1, at least one of the long forms in this line begins or ends with a stop word.
+- If it contains a 2, at least one of the long forms in this line has more than 12 tokens.
+- If it contains any concatenation of 1 and 2 (either 12 or 21), then both the above are true.
 - If it is empty, then none of the above are true.
