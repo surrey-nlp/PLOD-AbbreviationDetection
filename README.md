@@ -1,7 +1,5 @@
 <p align="center"><img src="./imgs/plod.png" alt="logo" width="50" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/favicon.png" alt="logo" width="125" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/surreyai.svg" alt="logo" width="200" height="55"/></p>
 
-<br/>
-
 # PLOD: An Abbreviation Detection Dataset  
 [![GitHub issues](https://img.shields.io/github/issues/surrey-nlp/PLOD-AbbreviationDetection?style=flat-square)](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/issues)
 [![GitHub stars](https://img.shields.io/github/stars/surrey-nlp/PLOD-AbbreviationDetection?style=flat-square)](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/stargazers)
