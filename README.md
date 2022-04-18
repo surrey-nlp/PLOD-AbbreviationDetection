@@ -17,6 +17,7 @@ We provide two variants of our dataset - Filtered and Unfiltered. They are descr
 
 2. The Unfiltered version can be accessed via [Huggingface Datasets here](https://huggingface.co/datasets/surrey-nlp/PLOD-unfiltered) and a [CONLL format is present here](https://github.com/surrey-nlp/PLOD-AbbreviationDetection).<br/>
 
+3. The [SDU Shared Task](https://sites.google.com/view/sdu-aaai22/home) data we use for zero-shot testing is [available here](https://github.com/amirveyseh/AAAI-22-SDU-shared-task-1-AE).
 
 ### Installation
 We use the custom NER pipeline in the [spaCy transformers](https://spacy.io/universe/project/spacy-transformers) library to train our models. This library supports training via any pre-trained language models available at the :rocket: [HuggingFace repository](https://huggingface.co/).<br/>
