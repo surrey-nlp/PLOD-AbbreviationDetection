@@ -1,4 +1,4 @@
-<p align="center"><img src="./imgs/plod.png" alt="logo" width="50" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/favicon.png" alt="logo" width="120" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/surreyai.svg" alt="logo" width="200" height="55"/></p>
+<p align="center"><img src="./imgs/plod.png" alt="logo" width="50" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/favicon.png" alt="logo" width="125" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/surreyai.svg" alt="logo" width="200" height="55"/></p>
 
 <br/>
 
