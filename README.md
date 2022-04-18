@@ -44,8 +44,8 @@ TBA
 
 ## Maintainer(s)
 
-[Diptesh Kanojia](https://dipteshkanojia.github.io)
-[Prashant Sharma](http://prashantksharma.com/)
+[Diptesh Kanojia](https://dipteshkanojia.github.io) <br/>
+[Prashant Sharma](http://prashantksharma.com/) <br/>
 
 
 
