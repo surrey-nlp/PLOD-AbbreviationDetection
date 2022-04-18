@@ -35,11 +35,17 @@ On the link provided above, the model can be used with the help of the Inference
 You can use the HuggingFace Model link above to find the instructions for using this model in Python locally. 
 
 ## Citing
+
 Please use the following citation while citing this work:
 
 ```latex
 TBA
 ```
+
+## Maintainer(s)
+
+[Diptesh Kanojia](https://dipteshkanojia.github.io)
+[Prashant Sharma](http://prashantksharma.com/)
 
 
 
