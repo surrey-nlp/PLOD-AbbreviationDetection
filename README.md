@@ -23,7 +23,19 @@ We provide two variants of our dataset - Filtered and Unfiltered. They are descr
 ### Installation
 
 We use the custom NER pipeline in the [spaCy transformers](https://spacy.io/universe/project/spacy-transformers) library to train our models. This library supports training via any pre-trained language models available at the :rocket: [HuggingFace repository](https://huggingface.co/).<br/>
-Please see the instructions at these websites to setup your own custom training with our dataset.
+Please see the instructions at these websites to setup your own custom training with our dataset to reproduce the experiments using Spacy.
+
+OR<br/>
+
+However, you can also reproduce the experiments via the Python notebook we [provide here](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/blob/main/nbs/fine_tuning_abbr_det.ipynb) which uses HuggingFace Trainer class to perform the same experiments. The exact hyperparameters can be obtained from the models readme cards linked below. Before starting, please perform the following steps:
+
+```bash
+git clone https://github.com/surrey-nlp/PLOD-AbbreviationDetection
+cd PLOD-AbbreviationDetection
+pip install -r requirements.txt
+```
+
+Now, you can use the notebook to reproduce the experiments.
 
 ### Model(s)
 
