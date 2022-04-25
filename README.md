@@ -48,7 +48,7 @@ On the link provided above, the model(s) can be used with the help of the Infere
 
 ### Usage
 
-You can use the HuggingFace Model link above to find the instructions for using this model in Python locally. 
+You can use the HuggingFace Model link above to find the instructions for using this model in Python locally using the notebook provided in the Git repo. 
 
 ## Citing
 
