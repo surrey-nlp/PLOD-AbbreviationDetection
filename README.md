@@ -27,8 +27,12 @@ Please see the instructions at these websites to setup your own custom training 
 
 ### Model(s)
 
-The working model is present [here at this link](https://huggingface.co/surrey-nlp/en_abbreviation_detection_roberta_lar).<br/>
-On the link provided above, the model can be used with the help of the Inference API via the web-browser itself. We have placed some examples with the API for testing.<br/>
+The working model(s) are present here at these links:<br/>
+
+- [RoBERTa-Large (Unfiltered)](https://huggingface.co/surrey-nlp/roberta-large-finetuned-abbr)
+- [RoBERTa-Base (Filtered)](https://huggingface.co/surrey-nlp/roberta-base-finetuned-abbr)
+
+On the link provided above, the model(s) can be used with the help of the Inference API via the web-browser itself. We have placed some examples with the API for testing.<br/>
 
 ### Usage
 
