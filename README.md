@@ -1,4 +1,4 @@
-<p align="center"><img src="./imgs/plod.png" alt="logo" width="50" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/faviconcts.png" alt="logo" width="125" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/aisurrey.svg" alt="logo" width="200" height="55"/></p>
+<p align="center"><img src="./imgs/plod.png" alt="logo" width="50" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/faviconcts.png" alt="logo" width="125" height="105"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/aisurrey.svg" alt="logo" width="200" height="55"/></p>
 
 # PLOD: An Abbreviation Detection Dataset  
 [![GitHub issues](https://img.shields.io/github/issues/surrey-nlp/PLOD-AbbreviationDetection?style=flat-square)](https://github.com/surrey-nlp/PLOD-AbbreviationDetection/issues)
