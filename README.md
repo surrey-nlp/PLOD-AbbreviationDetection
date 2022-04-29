@@ -46,6 +46,9 @@ Our best performing models are hosted on the HuggingFace models repository
 | --- | :---: | :---: | --- |
 | [RoBERTa<sub>large</sub>](https://huggingface.co/roberta-large) | [RoBERTa<sub>large</sub>-finetuned-abbr](https://huggingface.co/surrey-nlp/roberta-large-finetuned-abbr) | -soon- | Fine-tuning on the RoBERTa<sub>large</sub> language model |
 | [RoBERTa<sub>base</sub>](https://huggingface.co/roberta-base) | -soon- | [RoBERTa<sub>base</sub>-finetuned-abbr](https://huggingface.co/surrey-nlp/roberta-large-finetuned-abbr) | Fine-tuning on the RoBERTa<sub>base</sub> language model |
+| [AlBERT<sub>large-v2</sub>](https://huggingface.co/albert-large-v2) | [AlBERT<sub>large-v2</sub>-finetuned-abbDet](https://huggingface.co/surrey-nlp/albert-large-v2-finetuned-abbDet) | -soon- | Fine-tuning on the AlBERT<sub>large-v2</sub> language model |
+
+
 
 On the link provided above, the model(s) can be used with the help of the Inference API via the web-browser itself. We have placed some examples with the API for testing.<br/>
 
@@ -58,7 +61,16 @@ You can use the HuggingFace Model link above to find the instructions for using 
 Please use the following citation while citing this work:
 
 ```latex
-TBA
+@misc{https://doi.org/10.48550/arxiv.2204.12061,
+  doi = {10.48550/ARXIV.2204.12061},
+  url = {https://arxiv.org/abs/2204.12061},
+  author = {Zilio, Leonardo and Saadany, Hadeel and Sharma, Prashant and Kanojia, Diptesh and Orasan, Constantin},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {PLOD: An Abbreviation Detection Dataset for Scientific Documents},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 ```
 
 ## Maintainer(s)
