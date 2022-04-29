@@ -39,10 +39,13 @@ Now, you can use the notebook to reproduce the experiments.
 
 ### Model(s)
 
-The working model(s) are present here at these links:<br/>
 
-- [RoBERTa-Large (Unfiltered)](https://huggingface.co/surrey-nlp/roberta-large-finetuned-abbr)
-- [RoBERTa-Base (Filtered)](https://huggingface.co/surrey-nlp/roberta-base-finetuned-abbr)
+Our best performing models are hosted on the HuggingFace models repository
+
+| Models | [`PLOD - Unfiltered`](https://huggingface.co/datasets/surrey-nlp/PLOD-unfiltered) | [`PLOD - Filtered`](https://huggingface.co/datasets/surrey-nlp/PLOD-filtered) | Description |
+| --- | :---: | :---: | --- |
+| [RoBERTa<sub>large</sub>](https://huggingface.co/roberta-large) | [RoBERTa<sub>large</sub>-finetuned-abbr](https://huggingface.co/surrey-nlp/roberta-large-finetuned-abbr) | -soon- | Fine-tuning on the RoBERTa<sub>large</sub> language model |
+| [RoBERTa<sub>base</sub>](https://huggingface.co/roberta-base) | -soon- | [RoBERTa<sub>base</sub>-finetuned-abbr](https://huggingface.co/surrey-nlp/roberta-large-finetuned-abbr) | Fine-tuning on the RoBERTa<sub>base</sub> language model |
 
 On the link provided above, the model(s) can be used with the help of the Inference API via the web-browser itself. We have placed some examples with the API for testing.<br/>
 
