@@ -8,7 +8,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/CTS_Surrey?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/CTS_Surrey)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PeopleCentredAI?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/PeopleCentredAI)
 
+<br/>
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/plod-an-abbreviation-detection-dataset-for/abbreviationdetection-on-plod-an-abbreviation)](https://paperswithcode.com/sota/abbreviationdetection-on-plod-an-abbreviation?p=plod-an-abbreviation-detection-dataset-for)
+
+<br/>
 
 This is the repository for PLOD Dataset submitted to LREC 2022. The dataset can help build sequence labelling models for the task Abbreviation Detection. 
 
