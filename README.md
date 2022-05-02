@@ -10,7 +10,7 @@
 
 <br/>
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/plod-an-abbreviation-detection-dataset-for/abbreviationdetection-on-plod-an-abbreviation)](https://paperswithcode.com/sota/abbreviationdetection-on-plod-an-abbreviation?p=plod-an-abbreviation-detection-dataset-for)
+<!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/plod-an-abbreviation-detection-dataset-for/abbreviationdetection-on-plod-an-abbreviation)](https://paperswithcode.com/sota/abbreviationdetection-on-plod-an-abbreviation?p=plod-an-abbreviation-detection-dataset-for) -->
 
 <br/>
 
