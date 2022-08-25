@@ -66,15 +66,17 @@ You can use the HuggingFace Model link above to find the instructions for using 
 Please use the following citation while citing this work:
 
 ```latex
-@misc{https://doi.org/10.48550/arxiv.2204.12061,
-  doi = {10.48550/ARXIV.2204.12061},
-  url = {https://arxiv.org/abs/2204.12061},
-  author = {Zilio, Leonardo and Saadany, Hadeel and Sharma, Prashant and Kanojia, Diptesh and Orasan, Constantin},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {PLOD: An Abbreviation Detection Dataset for Scientific Documents},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
+@InProceedings{zilio-EtAl:2022:LREC,
+  author    = {Zilio, Leonardo  and  Saadany, Hadeel  and  Sharma, Prashant  and  Kanojia, Diptesh  and  OrÄƒsan, Constantin},
+  title     = {PLOD: An Abbreviation Detection Dataset for Scientific Documents},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {680--688},
+  abstract  = {The detection and extraction of abbreviations from unstructured texts can help to improve the performance of Natural Language Processing tasks, such as machine translation and information retrieval. However, in terms of publicly available datasets, there is not enough data for training deep-neural-networks-based models to the point of generalising well over data. This paper presents PLOD, a large-scale dataset for abbreviation detection and extraction that contains 160k+ segments automatically annotated with abbreviations and their long forms. We performed manual validation over a set of instances and a complete automatic validation for this dataset. We then used it to generate several baseline models for detecting abbreviations and long forms. The best models achieved an F1-score of 0.92 for abbreviations and 0.89 for detecting their corresponding long forms. We release this dataset along with our code and all the models publicly at https://github.com/surrey-nlp/PLOD-AbbreviationDetection},
+  url       = {https://aclanthology.org/2022.lrec-1.71}
 }
 ```
 
