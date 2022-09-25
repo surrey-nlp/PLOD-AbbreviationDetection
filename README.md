@@ -10,11 +10,11 @@
 
 <br/>
 
-<!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/plod-an-abbreviation-detection-dataset-for/abbreviationdetection-on-plod-an-abbreviation)](https://paperswithcode.com/sota/abbreviationdetection-on-plod-an-abbreviation?p=plod-an-abbreviation-detection-dataset-for) -->
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/plod-an-abbreviation-detection-dataset-for/abbreviationdetection-on-plod-an-abbreviation)](https://paperswithcode.com/sota/abbreviationdetection-on-plod-an-abbreviation?p=plod-an-abbreviation-detection-dataset-for)
 
 <br/>
 
-This is the repository for PLOD Dataset submitted to LREC 2022. The dataset can help build sequence labelling models for the task Abbreviation Detection. 
+This is the repository for PLOD Dataset submitted to LREC 2022. The dataset can help build sequence labelling models for the task Abbreviation Detection. The paper is available [here](https://arxiv.org/abs/2204.12061) and additionally, [here](http://dipteshkanojia.github.io/files/lrec-2022-plod.pdf).
 
 ### Dataset
 
